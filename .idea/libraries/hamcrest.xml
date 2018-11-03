@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="hamcrest">
+    <ANNOTATIONS>
+      <root url="file://$MAVEN_REPOSITORY$/org/hamcrest" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/hamcrest" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$MAVEN_REPOSITORY$/org/hamcrest" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/org/hamcrest" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/hamcrest" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/hamcrest" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/hamcrest" recursive="false" type="SOURCES" />
+  </library>
+</component>
